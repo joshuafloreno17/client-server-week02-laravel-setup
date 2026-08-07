@@ -95,7 +95,7 @@
         </p>
 
         <p>
-            <strong>Subject:</strong><br>
+            <strong>Subject:</strong><br>cd "C:\Users\In God we trust\Desktop\laravel_activity"
             Client-Server Technologies
         </p>
 
